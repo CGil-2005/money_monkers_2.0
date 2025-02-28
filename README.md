@@ -26,3 +26,4 @@ En este repositorio mejoraremos el código inicial, buscando mejorar el reporte 
 - **Ávila Núñez Jacob** → Aprendiz, tanto en código como apoyo en diagrama (pero también aprendiendo)
 - **Gil Martínez Carlos Alberto** →
 - **Martínez Castro Quehat Merari Uziel** → Aprendiz
+- **Aguilera Galan Reyna Esmeralda** → Aprendiz en codigo 
